@@ -1,15 +1,15 @@
 //******************************/
 
-// alert("script para calcular la tabla del número que elijas")
+alert("script para calcular la tabla del número que elijas")
 
-// let number = parseInt(prompt("Ingrese el numero de la tabla que quiere calcular, ej. tabla del 4: "))
+let number = parseInt(prompt("Ingrese el numero de la tabla que quiere calcular, ej. tabla del 4: "))
 
-// for(i=0; i<=10; i++){
-//     result = number * i;
-//     console.log(number + " x " + i + " = " + result);
-// }
+for(i=0; i<=10; i++){
+    result = number * i;
+    console.log(number + " x " + i + " = " + result);
+}
 
-// console.log("El script finalizó")
+console.log("El script finalizó")
 
 
 //************************/
