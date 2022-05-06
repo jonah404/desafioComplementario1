@@ -1,3 +1,3 @@
-# desaf-oComplementario1
+# desafíoComplementario1
 
 Hay 3 ejercicios que probé, dejé solo el primero activo.
